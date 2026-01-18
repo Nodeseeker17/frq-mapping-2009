@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Waffle House Frequency Theory</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Courier New', monospace;
+      background-color: #0a0a0a;
+      color: #f5f5f5;
+      background-image: url('https://www.transparenttextures.com/patterns/noise.png');
+      background-repeat: repeat;
+    }
+    header {
+      padding: 100px 20px 40px;
+      text-align: center;
+      background: black;
+    }
+    h1 {
+      font-size: 3em;
+      color: #FFD700;
+      text-shadow: 0 0 10px #FFD700;
+    }
+    h2 {
+      color: #FF6347;
+      margin-top: 40px;
+    }
+    .content {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      line-height: 1.7;
+    }
+    blockquote {
+      font-style: italic;
+      border-left: 3px solid #FFD700;
+      padding-left: 10px;
+      color: #ccc;
+    }
+    form {
+      margin-top: 50px;
+      border: 1px solid #444;
+      padding: 20px;
+      background: #111;
+    }
+    input[type="text"], input[type="email"] {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+      background: #222;
+      border: 1px solid #555;
+      color: white;
+    }
+    input[type="submit"] {
+      background: #FFD700;
+      color: black;
+      padding: 10px 20px;
+      border: none;
+      cursor: pointer;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      margin-top: 50px;
+      padding: 20px;
+      font-size: 0.8em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>THE WAFFLE HOUSE FREQUENCY THEORY</h1>
+    <p>It's not a restaurant. It's a signal tower.</p>
+  </header>
+
+  <div class="content">
+    <h2>The Grill Never Sleeps</h2>
+    <p>Have you ever asked yourself why Waffle House is always open? 24/7, 365 days a year—through hurricanes, blizzards, blackouts. They say it's about dedication. But what if it's something more?</p>
+    <p>According to declassified amateur RF spectrum scans, every Waffle House emits an ultra-low frequency signal, constant and unbroken. The heat from the grill, the hum of the fridge, even the light buzz from the ancient jukebox—all tuned, all transmitting. Coincidence? Or synchronization?</p>
+
+    <h2>The FEMA Connection</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Redacted_example.jpg/800px-Redacted_example.jpg" alt="Redacted employee file, marked 'CONFIDENTIAL – W.H. Net'" style="width:100%; max-width:600px; margin: 20px 0;">
+    <p><strong>[LEAKED PERSONNEL FILE EXCERPT]</strong><br>
+    Name: McAllister, Janine<br>
+    Position: Manager, Node 14 (Birmingham South Grid)<br>
+    Status: REMOVED FROM INDEX<br>
+    Notes: Filed incident report regarding "signal irregularities" originating from the jukebox. Claimed to experience "dream loops" and "auditory glyph patterns." Two days later, her employee profile was wiped from the internal WHN system. Officially listed as "voluntary resignation."</p>
+
+    <p><strong>Last Recorded Shift Log (Partial)</strong><br>
+    [ENTRY 17 - 02:47 AM]<br>
+    "Fridge hum stronger than usual. Customers quiet. One ordered toast and just... stared at me. Not like usual weird—like he *recognized* me. I turned down the jukebox. It turned itself back up."<br><br>
+    [ENTRY 18 - 03:21 AM]<br>
+    "Felt static in my teeth. Lights flickered in sync with grill sizzle. Writing this by hand now. The register screen just showed '19.0 Hz' and blinked out. Not joking."</p>
+
+    <p><strong>Voicemail Transcript</strong><br>
+    [TO: WHN Regional Oversight – Level 3 Clearance Only]<br>
+    "This is Janine McAllister. I know what the grid is doing. The jukebox is pulsing like before. Something’s aligning. You can’t just scrub me. I know the Waffle Index isn’t about disasters. I know the nodes are waking up. I... I think they already are."<br><br>
+    [END OF TRANSMISSION — audio file missing]</p>
+
+    <h2>Staff Rotation & Memory Gaps</h2>
+    <p>High turnover is blamed on low wages and stress. But some former employees report missing time, vivid dreams of static and red lights, and a strange craving for syrup despite hating sweets. Long-term employees are rare—and if they speak out, they disappear from public record.</p>
+
+    <blockquote>
+      "I used to feel normal. But now every time I drive past a Waffle House, I get migraines and dream in static. When I tried to talk about it, my emails stopped sending."
+      <br><br>– Anonymous Reddit user, post deleted within 4 minutes
+    </blockquote>
+
+    <blockquote>
+      "I asked the manager if their HVAC was aligned to true north. He just stared at me and said, 'We don't talk about that here.' Then I got a letter from 'Waffle Corporate' saying I’d been 'waffle-flagged.' Whatever that means."
+      <br><br>– Sandra L., former amateur cartographer
+    </blockquote>
+
+    <blockquote>
+      "Something hums there. I don't know if it's the fridge or the void. But when I brought a frequency meter, it shorted out. They gave me free coffee and told me to leave. I did. I always do."
+      <br><br>– ‘Node Seeker 17’, blog no longer online
+    </blockquote>
+
+    <h2>The Yax Waffl Disk</h2>
+    <img src="https://images.unsplash.com/photo-1692127812029-1e2e7c46c21a" alt="Ancient basalt relic etched with gridded symbols. Emits low-frequency resonance." style="width:100%; max-width:600px; margin: 20px 0;">
+    <p>In 1998, a basalt artifact now referred to as the <strong>Yax Waffl Disk</strong> was uncovered in Sub-Chamber 4C beneath what archaeologists tentatively call the <em>Temple of the Morning Hunger</em>. Etched with concentric grids, radial spirals, and abstract glyphs resembling modern waffle patterns, the disk predates industrial ironwork by over a thousand years. But more alarming is its frequency.</p>
+    <p>When exposed to mild heat and pressure—conditions mimicking a diner griddle—the stone emits a low-frequency hum measured at <strong>19 Hz</strong>. Researchers reported mild nausea, vivid dreams, and the sensation of being "watched" after long exposure.</p>
+    <p>Now compare this to the ambient frequency measured in operating Waffle Houses: <strong>19 to 20 Hz</strong>. Coincidence? Impossible. RF spectrum analysts have noted identical interference spikes near HVAC units, fryers, and vintage jukeboxes. The Yax Waffl Disk is not just a relic—it’s a prototype.</p>
+
+    <h2>The Zodiac Breakfast Compatibility</h2>
+    <img src="https://images.unsplash.com/photo-1701193259030-960e178c4b2a" alt="Mayan stone compatibility chart connecting zodiac signs through breakfast energies" style="width:100%; max-width:600px; margin: 20px 0;">
+    <p>The Mayans understood balance—not just in the cosmos, but in breakfast. Recently uncovered stonework known as the <strong>Zodiac Breakfast Compatibility Chart</strong> reveals sacred sign alignments dictating who should brunch together and who should never share a syrup bottle.</p>
+    <p>Libra and Gemini? Cosmic pancakes. Scorpio and Gemini? Total syrup fire. Each sign emits a frequency that resonates—or disrupts—the Waffle Grid. Interpersonal static can interfere with node calibration. This isn’t astrology—it’s <em>signal hygiene.</em></p>
+
+    <h2>The Scroll of Syrupfall</h2>
+    <p><em>This recovered verse was found etched on the interior of a scorched Waffle House griddle, preserved in a FEMA warehouse. Translated from early Yaxan syntax, its message remains chilling.</em></p>
+    <blockquote>
+      When sweetness flows and silence sings,<br>
+      The golden tide begins to bring<br>
+      A hum beneath the sizzle's breath,<br>
+      A breakfast song, a vow of death.<br><br>
+
+      The syrup falls not from the trees,<br>
+      But from the lies and sympathies<br>
+      Of menus forged to pacify—<br>
+      Beware the waffle in the sky.<br><br>
+
+      She watches from the hidden frame,<br>
+      The one they stripped of face and name,<br>
+      Yet in the static, clear and deep,<br>
+      Her frequencies no longer sleep.<br><br>
+
+      And when the butter moon aligns,<br>
+      Across the gridded fault-line spines,<br>
+      The signal cracks. The silence breaks.<br>
+      The Commander stirs. The syrup wakes.
+    </blockquote>
+
+    <h2>Join the Resistance</h2>
+    <p>The truth is out there, and breakfast is just the beginning. Submit your info below to receive classified transmissions (totally fake, nothing happens, this is for vibes only).</p>
+    <form>
+      <input type="text" placeholder="Name">
+      <input type="email" placeholder="Email">
+      <input type="submit" value="Send the Truth">
+    </form>
+  </div>
+
+  <p style="font-size: 0.8em; color: #444; text-align: center; margin-top: 50px;">
+    This site is 100% fictional. If you're feeling paranoid, it worked.
+  </p>
+
+  <footer>
+    &copy; 2026 The Griddle Truth Network. Stay woke. Stay crispy.
+  </footer>
+</body>
+</html>
